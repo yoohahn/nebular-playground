@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["airbnb"],
+  "globals": {},
+  "env": { "browser": true },
+  "parserOptions": {
+    "allowImportExportEverywhere": true,
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "root": true,
+  "rules": {
+    "no-console": 1,
+    "max-len": 0,
+    "import/no-extraneous-dependencies": [2, { "devDependencies": true }]
+  },
+  "overrides": [],
+  "plugins": []
+}
