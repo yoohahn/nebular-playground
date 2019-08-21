@@ -1,8 +1,8 @@
-version: "3.3"
+version: '3.3'
 
 services:
   qlik-engine:
-    image: qlikcore/engine:12.401.0
+    image: qlikcore/engine:12.429.0
     restart: always
     command: |
       -S AcceptEULA=yes
