@@ -1,6 +1,6 @@
 {
   "name": "nebular-playground",
-  "version": "0.0.0",
+  "version": "9.1.1",
   "private": true,
   "main": "dist/table.js",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
     "@material-ui/core": "^4.1.3",
-    "@nebula.js/cli": "^0.1.0-alpha.14",
+    "@nebula.js/cli": "^0.1.0-alpha.18",
     "@types/prop-types": "^15.7.1",
     "@types/react": "^16.8.22",
     "babel-eslint": "^10.0.2",
